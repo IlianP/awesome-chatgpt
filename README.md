@@ -48,6 +48,7 @@
 
 ### Social Tools
 - [shareGPT - permenent links to your conversations](https://github.com/domeccleston/sharegpt)
+- [Chrome extension for gpt.best](https://github.com/rileytomasek/gpt-best-chrome)
 
 
 ### CLI tools
